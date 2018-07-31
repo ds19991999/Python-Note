@@ -1,0 +1,11 @@
+
+wesley console Jun 20 20:33
+wesley pts/9 Jun 22 01:38 (192.168.0.6)
+wesley pts/1 Jun 20 20:33 (:0.0)
+wesley pts/2 Jun 20 20:33 (:0.0)
+wesley pts/4 Jun 20 20:33 (:0.0)
+wesley pts/3 Jun 20 20:33 (:0.0)
+wesley pts/5 Jun 20 20:33 (:0.0)
+wesley pts/6 Jun 20 20:33 (:0.0)
+wesley pts/7 Jun 20 20:33 (:0.0)
+wesley pts/8 Jun 20 20:33 (:0.0) 
